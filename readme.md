@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-👉 https://rogentis.onrender.com/
+👉 https://nexaai-upn3.onrender.com/
 
 # 🚀  NexaAI  - An Intelligent AI Assistant.
 
